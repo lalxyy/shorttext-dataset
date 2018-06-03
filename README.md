@@ -1,6 +1,6 @@
 ## Tweet & arXiv Short Text Dataset [![Build Status](https://travis-ci.org/lalxyy/shorttext-dataset.svg?branch=master)](https://travis-ci.org/lalxyy/shorttext-dataset)
 
-This is the public dataset of China Patent *A Short Text-Topic Based Domain Tracking Method*. Contains Twitter tweet data since October 25, 2017 and arXiv paper summary since December 20, 2017.
+This is the public dataset of China Patent *A Short Text-Hashtag Based Domain Tracking Method*. Contains Twitter tweet data since October 25, 2017 and arXiv paper summary since December 20, 2017.
 
 The data is regularly updated every Saturday (Pacific Time).
 
